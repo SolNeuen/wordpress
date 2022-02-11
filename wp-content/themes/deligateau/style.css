@@ -4,3 +4,10 @@ Author: Sol Newendorf
 Description: Sample website for a sample coffee and breakfast shop
 Version: 1.0.0
 */
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
